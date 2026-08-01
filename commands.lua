@@ -23,32 +23,6 @@
   "Shaders": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/randomstring0/pshade-ultimate/refs/heads/main/src/cd.lua\"))()",
   "Headsit + FuckMode": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Z4KrsFPX\"))()",
   "Shift Lock": "loadstring(game:HttpGet(\"https://pastebin.com/raw/J1XqmgG8\"))()",
-  "Hide Players": "loadstring(game:HttpGet(\"https://pastebin.com/raw/mYYsZYbE\"))()",
-  "_chat_commands": {
-    "fling": "Touch Fling",
-    "fly": "Superman Fly",
-    "invis": "Invisible",
-    "ui": "UI Manager",
-    "bang": "FaceBang",
-    "uanim": "UGC Animations",
-    "hf": "Headsit + FuckMode",
-    "base": "Baseplate Expander",
-    "je": "Jerk Off Panel",
-    "emote": "Emote Wheel",
-    "rewind": "Rewind",
-    "noclip": "NoClip",
-    "s": "Sliders",
-    "fps": "FPS & Ping Booster",
-    "hop": "Server Hopper",
-    "rj": "Rejoin",
-    "iy": "Infinite Yield",
-    "aimlock": "AimLock",
-    "trip": "Trip",
-    "shaders": "Shaders",
-    "shiftlock": "Shift Lock",
-    "tp": "TP Panel",
-    "possaver": "Position Saver",
-    "hp": "Hide Players",
-    "annoy": "Annoy Tool"
+  "Hide Players": "loadstring(game:HttpGet(\"https://pastebin.com/raw/mYYsZYbE\"))()"
   }
 }
