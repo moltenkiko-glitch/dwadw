@@ -23,6 +23,6 @@
   "Shaders": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/randomstring0/pshade-ultimate/refs/heads/main/src/cd.lua\"))()",
   "Headsit + FuckMode": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Z4KrsFPX\"))()",
   "Shift Lock": "loadstring(game:HttpGet(\"https://pastebin.com/raw/J1XqmgG8\"))()",
-  "Hide Players": "loadstring(game:HttpGet(\"https://pastebin.com/raw/mYYsZYbE\"))()"
+  "Hide Players": "loadstring(game:HttpGet(\"https://pastebin.com/raw/mYYsZYbE\"))()",
   }
 }
